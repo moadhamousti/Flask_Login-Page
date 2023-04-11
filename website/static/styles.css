@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    padding: 20px;
+    background-color: rgb(69, 236, 251);
+    border: solid rgb(81, 171, 255) 2px;
+}
+
+nav>a {
+    padding: 20px;
+}
+
+.alert {
+    padding: 10px;
+    background: rgb(0, 255, 55);
+    display: flex;
+    justify-self: baseline;
+    justify-content: center;
+    align-items: center;
+}
+
+
+span {
+    padding: 5px;
+}
+
+.alert2 {
+    padding: 10px;
+    background: rgb(107, 165, 20);
+    display: flex;
+    justify-self: baseline;
+    justify-content: center;
+    align-items: center;
+}
